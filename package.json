@@ -1,0 +1,24 @@
+{
+  "name": "oauth",
+  "version": "0.1.0",
+  "description": "Helps connecting SPA's to OAuth service providers",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phr0/oauth.git"
+  },
+  "author": "phr0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phr0/oauth/issues"
+  },
+  "homepage": "https://github.com/phr0/oauth#readme",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
